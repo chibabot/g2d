@@ -1,5 +1,10 @@
 # g2d
 G2D is graph-to-data tool for easy data building for any solutions
+
+# Used
+Python 3.11.2
+PySide6, json, os, sys, math
+
 # How to use
 ### Add node:
 Left DoubleClick on empty scene -> Creates Node
@@ -20,7 +25,3 @@ Ctrl+S - FastSave
 No way, because i haven't done it yet. Just wait
 ### Can i touch the code?:
 nope.
-
-# Used
-Python 3.11.2
-PySide6, json, os, sys, math
